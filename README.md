@@ -40,7 +40,7 @@ pip install streamlit scikit-learn
 Then run the application with:
 
 ```bash
-streamlit run app.py
+streamlit run interface.py
 ```
 
 The Streamlit application should open automatically in your web browser.
